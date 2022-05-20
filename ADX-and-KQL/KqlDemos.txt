@@ -1,0 +1,152 @@
+KQL BASICS
+
+customers
+
+customers
+| where YtdSales >= 100000
+
+customers
+| order by PostalCode asc, LastOrderDate
+
+customers
+|order by YtdSales desc
+| take 3
+
+customers
+| project FullName, LastOrderDate, NextDay=LastOrderDate + 1d, YtdSales, RemainingQuota=2000000-YtdSales
+
+customers
+| project FullName, LastOrderDate, NextDay=LastOrderDate + 1d, YtdSales, RemainingQuota=2000000-YtdSales| extend expectedSales = RemainingQuota * 2
+
+customers
+| extend NextDay=LastOrderDate + 1d
+
+customers
+| summarize count(), avg(YtdSales) by PostalCode
+
+explain
+select FullName, LastOrderDate, city, YtdExpenses
+from customers
+where city = 'Redmond'
+order by YtdSales asc
+
+---
+TIME-SERIES DATA
+
+droneData
+
+droneData
+| order by TimeStamp asc
+| project DroneId, TimeStamp, Longitude, Latitude, BatteryLife, PrevBatteryLife = prev(BatteryLife) 
+| extend BatteryLifeChange = BatteryLife - PrevBatteryLife
+
+droneData
+| summarize arg_max(TimeStamp, DroneId, Longitude, Latitude, BatteryLife) by bin(TimeStamp, 1h)
+
+droneData
+| where DroneId == 1
+| order by DroneId asc, TimeStamp asc
+| project  DroneId, TimeStamp, Longitude, Latitude,
+distance=geo_distance_2points(Longitude, Latitude, prev(Longitude), prev(Latitude))
+
+let p1Lon = -73.99892807006836;
+let p1Lat = 40.72924259684576;
+let p2Lon = -73.98395061492919;
+let p2Lat = 40.72924259684576;
+let p3Lon = -73.98395061492919;
+let p3Lat = 40.74976037842817;
+let p4Lon = -73.99892807006836;
+let p4Lat = 40.74976037842817;
+let p1 = pack_array(p1Lon, p1Lat);
+let p2 = pack_array(p2Lon, p2Lat);
+let p3 = pack_array(p3Lon, p3Lat);
+let p4 = pack_array(p4Lon, p4Lat);
+let polygon = pack("type","Polygon","coordinates", pack_array(pack_array(p1, p2, p3, p4, p1)));
+droneData
+| where geo_point_in_polygon(Longitude, Latitude, polygon)
+| order by DroneId asc, TimeStamp asc
+
+droneData
+| extend s2_13 = geo_point_to_s2cell(Longitude, Latitude, 30)
+| where DroneId == 1 
+
+let p1Lon = -73.99892807006836;
+let p1Lat = 40.72924259684576;
+let p2Lon = -73.98395061492919;
+let p2Lat = 40.72924259684576;
+let p3Lon = -73.98395061492919;
+let p3Lat = 40.74976037842817;
+let p4Lon = -73.99892807006836;
+let p4Lat = 40.74976037842817;
+let p1 = pack_array(p1Lon, p1Lat);
+let p2 = pack_array(p2Lon, p2Lat);
+let p3 = pack_array(p3Lon, p3Lat);
+let p4 = pack_array(p4Lon, p4Lat);
+let polygon = pack("type","Polygon","coordinates", pack_array(pack_array(p1, p2, p3, p4, p1)));
+let s2Array =geo_polygon_to_s2cells(polygon, 12);
+let dronesInS2Boxes = 
+    droneData
+    | extend s2_12 = geo_point_to_s2cell(Longitude, Latitude, 12) 
+    | where s2_12 has_any (s2Array);
+dronesInS2Boxes
+| where geo_point_in_polygon(Longitude, Latitude, polygon)
+
+===
+MATERIALIZED VIEWS
+
+.create async materialized-view 
+with (backfill=true, docString='Summary customer sales' ) 
+myMaterializedView
+on table customers { 
+customers
+| summarize numCustomers=count(), minSales=min(YtdSales), maxSales=max(YtdSales), avgSales=avg(YtdSales) by PostalCode
+}
+
+myMaterializedView
+| where avgSales > 100000
+
+.alter materialized-view
+myMaterializedView
+on table customers { 
+customers
+| summarize numCustomers=count(), maxSales=max(YtdSales), avgSales=avg(YtdSales) by PostalCode
+}
+
+===
+FUNCTIONS (Scalar)
+
+.create-or-alter function
+with (docstring = 'Points drone passed through rolled up by time period', folder='Samples')
+Profit(
+revenue:decimal,
+expenses:decimal
+)
+{
+revenue - expenses
+}
+
+customers
+| extend profit = Profit(YtdSales, YtdExpenses)
+
+===
+FUNCTIONS (Tabular)
+
+.create-or-alter function
+with (docstring = 'Points drone passed through rolled up by time period', folder='Samples')
+DroneRoute(
+startDateTime:datetime,
+endDateTime:datetime,
+timeBinLength:timespan = 1h
+)
+{
+droneData
+| where TimeStamp between (startDateTime .. endDateTime)
+| summarize arg_max(TimeStamp, Longitude, Latitude) by bin(TimeStamp, timeBinLength)
+| order by TimeStamp asc 
+| project TimeStamp, Longitude, Latitude
+}
+
+DroneRoute('2022-01-10 11:00:00', '2022-01-10 13:00:00', 30m)
+
+DroneRoute('2022-01-10 11:00:00', '2022-01-10 13:00:00')
+
