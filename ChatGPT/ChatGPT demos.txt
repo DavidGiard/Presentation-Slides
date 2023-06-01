@@ -1,0 +1,128 @@
+What is a good metaphor for a movie that starts poorly but has a good ending
+
+Once upon a time, an Enterprise Architect was asked to write code that would solve the problem of world hunger.
+
+2 dummies are having a conversation about debugging code
+
+Write a story about a politician who learned a lesson about insulting everyone who disagreed with him
+
+Grade the story above for a 12th grade writing class 
+
+I liked the movie "Big Fish". Can you recommend some others?
+
+Can you recommend a good espresso machine in the $500-1000 price range?
+
+My 15-year-old son loves basketball. His birthday is next week. What should I get him?
+
+I have some chicken, parmesan, and capers. What should I make for dinner?
+
+Be a game master and teach me to program C# in a wacky hilarious adventure text game set on a science vessel in the year 2078 where you will narrate the story and give me choices about what I can do 
+
+Let's play a trivia game
+
+Tell me a joke about Artificial Intelligence
+
+Write a poem about HTTP
+
+Summarize the winners and losers of the NCAA Division 1 men's basketball Final Four from 2000 to 2010 into tabular form with the titles "Champion", "Runner Up", "Final Score", "Other Teams", "Location", and "MVP" 
+
+Draw me a top-down diagram using Mermaid markdown of the Biblical lineage from Abraham to Jacob
+
+Draw me a top-down diagram using Mermaid markdown of the Biblical lineage from Abraham to Jacob including siblings
+
+Jack puts his laptop in his backpack and leaves the room. Jill enters the room and moves his laptop to a basket next to the chair, then leaves. When Jack re-enters the room, where does he look for his laptop? 
+
+Summarize the Lord of the Rings in 3 sentences 
+
+What are some good conversation starters on a first date?
+
+Write a professional bio for David Giard
+
+Write a professional bio for David Giard as a haiku
+
+Write a professional bio for David Giard in the voice of Foghorn Leghorn
+
+How do I delete a row in MongoDB using PHP?
+
+Generate sample baseball statistics data as CSV
+
+I want to learn to play piano. I am a complete beginner. Create a 30 day learning plan that will help me learn and improve.
+
+I want to learn about quantum computing. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
+
+Analyze the following article. Improve the tone to make it sound more professional
+https://davidgiard.com/native-son-by-richard-wright
+
+Summarize the book "Radical Candor". List the most important learning and insights.
+
+Provide feedback on the follwing arguments:
+Marijuana should be legal everywhere because
+- it is not addictive
+- it is less harmful than alcohol, which is legal
+- criminalizing marijuana disproportionately hurts minorities
+- legalizing marijuana makes it easier to tax
+- legalizing marijuana makes it easier to regulate
+
+Give me a step-by-step guide to solving world hunger
+
+Give me a step-by-step guide to passing my history midterm exam
+
+Provide an outline with 10 bullet points for an article on getting started with Kubernetes
+
+I am currently learning about ChatGPT. Convert the key lessons of this topic into engaging stories and metphors to aid memorization.
+
+I am learning about Docker.
+Ask me a series of questions to test my knowledge. Identify gaps in my answers and give me better answers to fill those gaps.
+
+Till which year does ChatGPT know the current affairs and news?
+
+Write code in Go to calculate interest rates
+
+---
+Find a public dataset with baseball statistics
+
+Write python code to import this dataset
+
+Do EDA on the above data
+
+---
+
+If a software developer takes 365 days to write a piece of software, how many developers will it take to write that piece of software in 1 day?
+
+If a woman takes 9 months to carry and deliver a baby, how many women will it take to carry and deliver a baby in 1 month?
+
+---
+What is cryptocurrency
+
+Write a casual message in French to my Airbnb host saying I’m going to be a little late to check-in and that I will arrive at 4pm.
+
+Give me an itinerary for my 7-day vacation in Lisbon, Portugal
+
+What’s the best way to make new friends when moving to Chicago?
+What’s the best way to make new friends when moving to London?
+What’s the best way to make new friends when moving to Williamstown, MA?
+
+What’s the quickest way to get across New York City during rush hour?
+
+List the best places to watch the Michigan State football game in Chicago this Saturday
+
+What do you get when you cross a snowman and a vampire?
+
+I have an interview tomorrow at Microsoft for a job as a Cloud Solution Architect. What are some questions I should ask the interviewer?
+
+How do I increase my Twitter followers?
+
+Produce 10 hashtags about Cloud Computing
+
+Suggest inexpensive ways I can promote my IT Consulting business without using social media.
+
+Write a product description for my Native American jewelry collection
+
+
+===
+https://gridfiti.com/best-chatgpt-prompts/
+https://www.linkedin.com/feed/update/urn:li:activity:7066386899451428864/
+
+
+---
+I have a presentation that shows fun, interesting, and useful ways to use ChatGPT. What is a clever title for this presentation?
