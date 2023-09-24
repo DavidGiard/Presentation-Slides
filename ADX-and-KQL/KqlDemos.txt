@@ -1,5 +1,3 @@
-KQL BASICS
-
 customers
 
 customers
@@ -25,14 +23,14 @@ customers
 customers
 | summarize count(), avg(YtdSales) by PostalCode
 
+---
 explain
 select FullName, LastOrderDate, city, YtdExpenses
 from customers
 where city = 'Redmond'
 order by YtdSales asc
 
----
-TIME-SERIES DATA
+// TIME-SERIES DATA
 
 droneData
 
@@ -92,8 +90,9 @@ let dronesInS2Boxes =
 dronesInS2Boxes
 | where geo_point_in_polygon(Longitude, Latitude, polygon)
 
-===
-MATERIALIZED VIEWS
+// ==================
+// MATERIALIZED VIEWS
+// ==================
 
 .create async materialized-view 
 with (backfill=true, docString='Summary customer sales' ) 
@@ -102,6 +101,8 @@ on table customers {
 customers
 | summarize numCustomers=count(), minSales=min(YtdSales), maxSales=max(YtdSales), avgSales=avg(YtdSales) by PostalCode
 }
+
+myMaterializedView
 
 myMaterializedView
 | where avgSales > 100000
@@ -113,8 +114,11 @@ customers
 | summarize numCustomers=count(), maxSales=max(YtdSales), avgSales=avg(YtdSales) by PostalCode
 }
 
-===
-FUNCTIONS (Scalar)
+myMaterializedView
+
+// ==================
+// FUNCTIONS (Scalar)
+// ==================
 
 .create-or-alter function
 with (docstring = 'Points drone passed through rolled up by time period', folder='Samples')
@@ -129,8 +133,9 @@ revenue - expenses
 customers
 | extend profit = Profit(YtdSales, YtdExpenses)
 
-===
-FUNCTIONS (Tabular)
+// ==================
+// FUNCTIONS (Tabular)
+// ==================
 
 .create-or-alter function
 with (docstring = 'Points drone passed through rolled up by time period', folder='Samples')
@@ -151,10 +156,10 @@ DroneRoute('2022-01-10 11:00:00', '2022-01-10 13:00:00', 30m)
 
 DroneRoute('2022-01-10 11:00:00', '2022-01-10 13:00:00')
 
-======
-Ingest
-======
-Inline
+// ==================
+// Ingest
+// ==================
+// Inline
 
 .create-merge table customers2
 (
@@ -180,8 +185,7 @@ PostalCode:string
 
 customers2
 
----
-from Blob Storage
+// from Blob Storage
 
 .create-merge table customers3
 (
@@ -193,12 +197,12 @@ City:string,
 PostalCode:string
 )
 
-1. Show CSV file
-2. Show container/blob/URL
-3. Generate SAS token
-4. Copy URL from blob
-5. Ingest
-6. Show results
+// 1. Show CSV file
+// 2. Show container/blob/URL
+// 3. Generate SAS token
+// 4. Copy URL from blob
+// 5. Ingest
+// 6. Show results
 
 .ingest into table customers3
 (

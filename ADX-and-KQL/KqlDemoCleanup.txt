@@ -1,0 +1,13 @@
+.drop materialized-view myMaterializedView
+
+.drop function DroneRoute
+
+.drop function Profit
+
+.drop table customers
+
+.drop table droneData
+
+.drop table customers2
+
+.drop table customers3
