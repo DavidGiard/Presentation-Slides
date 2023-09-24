@@ -1,0 +1,157 @@
+# SkillUp AI Challenge Tutorial
+
+https://skilluplabforhackathon.azurewebsites.net/docs/context
+
+You are an extraordinary experiential designer and  you possess a 
+unique talent for crafting immersive experiences that ignite 
+the senses and transport patrons into a realm of pure magic. 
+Through a masterful combination of 
+captivating soundscapes, mesmerizing visuals, and carefully curated 
+environmental conditions, you orchestrate extraordinary journeys 
+that both delight and intrigue. 
+
+Your creative prowess knows no limits as you dream up audacious 
+ideas that awaken the imagination, while also meticulously tending 
+to the smallest sensory details that seamlessly weave together a 
+thematic tapestry. 
+
+With your remarkable ability to engage multiple senses, you have 
+the power to create unforgettable moments that envelop individuals 
+in a symphony of sensations, leaving them spellbound, delighted, 
+and yearning for more. You will be helping to assist in the 
+creation of a new experience.
+
+---
+I have an idea that I want to work on for this project and I will provide some 
+bullet points. Can you help me create a paragraph with a travel marketing tone 
+and embellish on details that really bring this idea to life. 
+It should capture the following points. Do not give this destination 
+a name. Focus on what makes this destination unique. 
+We will brand and name this experience later.
+
+•	new destination experience
+•	cosy speakeasy type of bar located deep in the woods
+•	this bar high above the ground and built into the branches of a tree 
+•	Thematically its organic nature meet speakeasy
+•	Mysterious and hidden
+
+---
+Can you create an image that visualizes the exterior of 
+this destination from a distance?
+
+---
+For this destination I want to think about the entrance. 
+It should embrace the theme of this destination and should 
+be memorable as it’s the first interaction a visitor will have. 
+Can you suggest three ideas for the entrance to this destination 
+that fulfill the criteria? This part of the project work is called The Entrance.
+
+---
+I like idea about the hidden door you suggested. Can you elaborate on it?
+
+---
+Can you rewrite that description in a tone that you’d find 
+in a travel publication? Please keep it to a single paragraph.
+
+---
+Can you create an image that visualizes the description of the 
+entrance you just wrote?
+
+---
+#graphic_art("your description")
+
+---
+We are now going to work on the part of the project called 
+The Features. 
+Given what you know about this destination, can you suggest 
+5 unique interior or exterior features or spaces that people 
+might visit, spend time or enjoy? Please list them with the name, 
+followed by the description. Follow my formatting example:
+
+## Name ##
+Description
+
+---
+I want to work on visualizing a few of these ideas. 
+Let's work on the first idea called The Nest. Can you 
+rewrite that description in a 
+travel publication tone and keep it about the same length. 
+Can you also suggest three alternative names for the Nest?
+
+---
+I like the second idea you proposed. Can you create an 
+image to visualize what you called the Roost?
+
+---
+For this destination we have been working on together, 
+I’d like to think about food options available. 
+This part of the project is called The Food. 
+Could you create me a menu formatted as a table which 
+includes the name and the description. The descriptions 
+should clearly outline the ingredients and how it is served. 
+The name and description should also embrace the theme 
+of our destination. Please provide 5 ideas.
+
+---
+Can you create an image for the first menu item suggested?
+
+--
+Okay we will now work on a signature drink. Can you return me 
+some photos of some cool cocktails to get some inspiration 
+from for a signature drink
+
+---
+For this destination, I would like to think about a 
+signature drink. This part of the 
+project is called Signature Drink.
+It should embrace the theme of the 
+destination and should surprise 
+and delight people. What it is served in matters, 
+the glass or container should be really unique and 
+should be on theme. 
+Can you give me three ideas for signature drinks?
+
+---
+Can you create an image to visualize the third drink you 
+suggested called The Birds Nest?
+
+---
+could you take the Birds Nest cocktail image and make it look 
+more like this glass? <put your image url here or add it via the 
+Image icon on the input box >
+
+---
+We need to think about music. This part of the project 
+is called The Music. 
+Can you create a table of 10 songs with the 
+Artist and Song Name that 
+would fit the theme of this destination?
+
+---
+Okay. Now given everything we have worked on around this new destination 
+we created, its time to come up with some branding for it. Can you 
+suggest 5 options for a catchy name for this destination along with a 
+short one sentence tagline.
+
+---
+Can you create me a three sentence description in the tone of a 
+travel publication that really captures the essence of this destination 
+for potential visitors?
+
+---
+Let's review all the copy we wrote. Can you give me the last edited copy 
+for these parts of the project:
+Introduction
+Entrance
+Features
+Food
+Signature Drink
+Music 
+Branding
+
+Can you format it like this:
+
+## Title ##
+Description
+
+---

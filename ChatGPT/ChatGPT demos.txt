@@ -1,4 +1,10 @@
+FUN STUFF
+
 What is a good metaphor for a movie that starts poorly but has a good ending
+
+I watched a movie containing a good metaphor for a movie that starts poorly but has a good ending. Write a paragraph that includes this metaphor to open a review of this movie.
+
+I have a sick child. I cannot make the meeting. Write a professional email saying I cannot make it. Keep it to 4 sentences or less.
 
 Once upon a time, an Enterprise Architect was asked to write code that would solve the problem of world hunger.
 
@@ -8,13 +14,13 @@ Write a story about a politician who learned a lesson about insulting everyone w
 
 Grade the story above for a 12th grade writing class 
 
-I liked the movie "Big Fish". Can you recommend some others?
+I liked the movie "Big Fish". Can you recommend some others I might like?
 
 Can you recommend a good espresso machine in the $500-1000 price range?
 
 My 15-year-old son loves basketball. His birthday is next week. What should I get him?
 
-I have some chicken, parmesan, and capers. What should I make for dinner?
+I have some chicken, parmesan, capers, and onions. What should I make for dinner?
 
 Be a game master and teach me to program C# in a wacky hilarious adventure text game set on a science vessel in the year 2078 where you will narrate the story and give me choices about what I can do 
 
@@ -36,6 +42,9 @@ Summarize the Lord of the Rings in 3 sentences
 
 What are some good conversation starters on a first date?
 
+===
+PROFESSIONAL
+
 Write a professional bio for David Giard
 
 Write a professional bio for David Giard as a haiku
@@ -44,11 +53,30 @@ Write a professional bio for David Giard in the voice of Foghorn Leghorn
 
 How do I delete a row in MongoDB using PHP?
 
-Generate sample baseball statistics data as CSV
+---
+Generate sample baseball statistics data as CSV. Output 20 records.
+
+Write C# code to Generate sample baseball statistics data as CSV. Output 1000 records.
+
+Find a public dataset with baseball statistics
+
+Write python code to import this dataset
+
+Do EDA on the above data
+
+===
+LEARNING NEW SKILLS
 
 I want to learn to play piano. I am a complete beginner. Create a 30 day learning plan that will help me learn and improve.
 
 I want to learn about quantum computing. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
+
+I am currently learning about ChatGPT. Convert the key lessons of this topic into engaging stories and metphors to aid memorization.
+
+I am learning about Docker.
+Ask me a series of questions to test my knowledge. Identify gaps in my answers and give me better answers to fill those gaps.
+
+===
 
 Analyze the following article. Improve the tone to make it sound more professional
 https://davidgiard.com/native-son-by-richard-wright
@@ -69,21 +97,14 @@ Give me a step-by-step guide to passing my history midterm exam
 
 Provide an outline with 10 bullet points for an article on getting started with Kubernetes
 
-I am currently learning about ChatGPT. Convert the key lessons of this topic into engaging stories and metphors to aid memorization.
-
-I am learning about Docker.
-Ask me a series of questions to test my knowledge. Identify gaps in my answers and give me better answers to fill those gaps.
-
 Till which year does ChatGPT know the current affairs and news?
+
+===
+CODING
 
 Write code in Go to calculate interest rates
 
----
-Find a public dataset with baseball statistics
-
-Write python code to import this dataset
-
-Do EDA on the above data
+Generate Unit Tests for this code
 
 ---
 
@@ -118,11 +139,174 @@ Suggest inexpensive ways I can promote my IT Consulting business without using s
 
 Write a product description for my Native American jewelry collection
 
+What is the word for a novel with no plot - just a series of incidents?
+
+A few years ago, I watched an animated movie about a jazz musician who died and went to heaven just before he got his big break. What was the title?
+
+I saw a movie starring Steve McQueen and Candace Bergen about a sailor in China. What is the name of this movie?
+
+---
+I have a .NET MVC application that uses ILogger. The following code is in my controller:
+    private readonly ILogger<HomeController> _logger;
+
+    public HomeController(ILogger<HomeController> logger)
+    {
+        _logger = logger;
+    }
+
+I am using Visual Studio Code.
+
+Configure the application to log to Azure Application Insights.
+
+===
+PROJECT MANAGERS
+
+Here is a table containing the work breakdown structure for my project. Note the duration, predecessors, and task IDs. Please confirm Okay that you understand this.
+
 
 ===
 https://gridfiti.com/best-chatgpt-prompts/
 https://www.linkedin.com/feed/update/urn:li:activity:7066386899451428864/
-
+https://www.linkedin.com/feed/update/urn:li:activity:7069281452240039936/?utm_source=share&utm_medium=member_ios
 
 ---
 I have a presentation that shows fun, interesting, and useful ways to use ChatGPT. What is a clever title for this presentation?
+
+---
+Career
+https://microsoft.sharepoint.com/teams/CS_CE/SitePages/CE-Beat-AIcareer.aspx
+https://aka.ms/careergpt
+	Creating and developing a Career Development Plan
+
+===
+For each line below, remove all characters up to and including the first "-" charter and remove the ".png" extension at the end.
+The remaining text uses Camel Case or Proper Case. Split the remaining text into individual words with a space in between each word.
+aaid01-AzureMonitorOverviewTab.png
+aaid02-AzureMonitorApplicationsTab.png
+aaid03-ApplicationInsightsApplicationOverviewTab.png
+aaid04-ApplicationDashboardButton.png
+aaid05-ApplicationDashboard.png
+aaid06-CreateButton.png
+aaid07-CreateADashboardDialog.png
+aaid08-CreateAnApplicationInsightsDashboardDialog.png
+aaid09-NewDashboardBasedOnAppInsightsTemplate.png
+aaid10-EditButton.png
+aaid11-AddTilesButton.png
+aaid12-TileGallery.png
+aaid13-ContextMenuButton.png
+aaid14-TileContextMenu.png
+aaid15-ConfigureTileSettingsDialog.png
+aaid16-DeleteButton.png
+aaid17-PreviewButton.png
+aaid18-SaveButton.png
+aaid19-CancelButton.png
+
+Create an HTML img tag for each line. The original word is the src attribute. The modified word is the alt and the title tag.
+
+Add the following attribute to each of the tags above:
+style="display: inline; background-image: none;" 
+
+Each image is in the /content/binary/azure/monitoring folder. Change the src attribute of each tag to reflect this.
+
+Follow each <img> tag with a <br /> tag.
+
+===
+Translate the following COBOL code to Java
+	IDENTIFICATION DIVISION.
+	PROGRAM-ID. VARS.
+
+	DATA DIVISION.
+	  *> working storage defines variables
+	  WORKING-STORAGE SECTION.
+	  *> define a number with a sign, 3 numbers, a decimal, and then
+	  *> two numbers aafter the decimal. by default it should be 0 filled
+	  01 FIRST-VAR PIC S9(3)V9(2).
+	  *> do the same thing as above but actually initialize
+	  *> to a number -123.45
+	  01 SECOND-VAR PIC S9(3)V9(2) VALUE -123.45.
+	  *> defines an alphabetic string and initialize it to abcdef
+	  01 THIRD-VAR PIC A(6) VALUE 'ABCDEF'.
+	  *> define an alphanumeric string and initialize it to a121$
+	  01 FOURTH-VAR PIC X(5) VALUE 'A121$'.
+	  *> create a grouped variable
+	  01 GROUP-VAR.
+		05 SUBVAR-1 PIC 9(3) VALUE 337.
+		*> create 3 alphanumerics, but use less than
+		*> the allocated space for each of them
+		05 SUBVAR-2 PIC X(15) VALUE 'LALALALA'.
+		05 SUBVAR-3 PIC X(15) VALUE 'LALALA'.
+		05 SUBVAR-4 PIC X(15) VALUE 'LALALA'.
+
+	*> print our variables
+	PROCEDURE DIVISION.
+	  DISPLAY "1ST VAR :"FIRST-VAR.
+	  DISPLAY "2ND VAR :"SECOND-VAR.
+	  DISPLAY "3RD VAR :"THIRD-VAR.
+	  DISPLAY "4TH VAR :"FOURTH-VAR.
+	  DISPLAY "GROUP VAR :"GROUP-VAR.
+	  STOP RUN.
+									   
+---
+I have created a presentation about Azure Monitoring and Application Insights. It covers:
+-the importance of monitoring
+-monitoring concepts
+-monitoring strategy
+-how to configure monitoring, logging, and alerts
+-how to create dashboards
+-retention policies
+-integration with other applications and services.
+Please write an abstract for this presentation that I can submit to technical conferences.
+
+Please condense this abstract to under 100 words.
+---
+
+Write the first ten minutes of the dialogue from a new hope in heroic couplet
+
+---
+Post replies
+
+Write me a reply to this ___ comment please
+
+I have an event coming up to teach ___ how to ____. It will be held ___. Write me a 5-part email sequence to promote the event to my list please
+
+Great! Now, write me a welcome email for those that sign up, along with 3 reminder emails. Here are the Zoom meeting details.
+
+===
+-- Content ideas
+
+I am a software engineer who teaches DevOps. Give me 10 content or newsletter ideas, please.
+
+-- Rephrasing
+
+How can I say "We are going to be late because the designers delivered their designs late and because the testers are taking too long and because no one bothered to write the documentation" in a better way or with less emotion
+
+
+-- Sales page content
+
+I created a course on Monitoring in Azure. Here is a list of the course modules and resources, as well as its description. Write a sales page please.
+
+-- LinkedIn newsletters
+
+Write me a 1,500 word newsletter on Developer Velocity.
+
+-- Resource creation
+
+Could you make the headline for this post more attention-grabbing?
+https://davidgiard.com/increasing-developer-velocity
+
+-- Name Ideas
+
+I have this ___ idea for my ___. Give me some name ideas please.
+
+-- Email newsletters
+https://davidgiard.com/increasing-developer-velocity
+Turn this  post into an email newsletter please.
+
+--Proposal writing
+
+Help me prepare a speaking proposal for a Code Camp on Using Open AI to improve my resume
+
+The song 'desperadoes under the eaves' mentions the Hollywood Hawaiian hotel. Is this a real hotel?
+Where was the Hollywood Hawaiian hotel located?
+
+What is a word that describes when someone is using language or behavior to deliberately exclude others
