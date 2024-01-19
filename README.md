@@ -27,3 +27,7 @@ I no longer deliver these. Contact me if you are interested. I may update them.
 
 - [How Cloud Computing Empowers a Data Scientist](https://github.com/DavidGiard/Presentation-Slides/tree/main/How-Cloud-Computing-Empowers-a-Data-Scientist)
 - [A Midsummer Night's Stream: Streaming Video with Azure Media Services](https://github.com/DavidGiard/Presentation-Slides/tree/main/Azure-Media-Services)
+
+## Bio
+
+David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over three decades.  Currently, David helps people design and build solutions in his role as a Partner Solution Architect at Microsoft. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV shows [Technology and Friends](http://technologyandfriends.com) and [GCast](https://aka.ms/gcast).  He is the co-author of the Wrox book [Real World .NET, C#, and Silverlight](https://www.amazon.com/Real-World-NET-Silverlight-Indispensible/dp/1118021967/). You can read his latest thoughts at [DavidGiard.com](https://davidgiard.com).  His hobbies include video, photography, sports, and embarrassing his sons.
