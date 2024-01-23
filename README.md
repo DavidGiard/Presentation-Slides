@@ -11,6 +11,7 @@ In most cases, the slides are far more valuable within the context of a presenta
 I am available to deliver the presentations below. Click on a title to view a detailed description and the associated slide deck.
 
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](https://github.com/DavidGiard/Presentation-Slides/tree/main/AI-and-Microsoft)
+- [With Great Power Comes Great Responsibility: Working Toward Responsible AI](https://github.com/DavidGiard/Presentation-Slides/tree/main/Responsible%20AI)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](https://github.com/DavidGiard/Presentation-Slides/tree/main/ADX-and-KQL)
 - [Navigating Cloudy Horizons with Azure Monitor and Application Insights](https://github.com/DavidGiard/Presentation-Slides/tree/main/Azure%20Monitor%20and%20App%20Insights)
 - [We Want the Func! Serverless Computing with Azure Functions](https://github.com/DavidGiard/Presentation-Slides/tree/main/Azure-Functions)
