@@ -23,6 +23,12 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Own Your Own Career – Advice from a Veteran Software Engineer](./presentations/Own-Your-Own-Career)
 - [You and Your Technical Community](./presentations/You-and-Your-Technical-Community)
 
+## Draft Presentations
+
+These are new presentations that are not yet complete. Contact me if you are interested. It may be the catalyst I need to finish them.
+
+- [Azure AI Search](./presentations/Azure%20AI%20Search)
+
 ## Deprecated Presentations
 
 I no longer deliver these. Contact me if you are interested. I may update them.
