@@ -11,24 +11,24 @@ In most cases, the slides are far more valuable within the context of a presenta
 I am available to deliver the presentations below. Click on a title to view a detailed description and the associated slide deck.
 
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
-- [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/tree/main/Responsible%20AI)
-- [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/tree/main/ADX-and-KQL)
-- [Navigating Cloudy Horizons with Azure Monitor and Application Insights](./presentations/tree/main/Azure%20Monitor%20and%20App%20Insights)
-- [We Want the Func! Serverless Computing with Azure Functions](./presentations/tree/main/Azure-Functions)
-- [Blood, Sweat, & Code Reviews](./presentations/tree/main/Blood-Sweat-and-Code-Reviews)
-- [ChatGPT Unleashed: From Code Wizards to Silly Shenanigans!](./presentations/tree/main/ChatGPT)
-- [Cloud and Azure and Rock and Roll](./presentations/tree/main/Cloud-And-Azure-And-Rock-And-Roll)
-- [Effective Data Visualization](./presentations/tree/main/Data-Visualization)
-- [Azure Identity Management and Microsoft Graph](./presentations/tree/main/MS-Graph-and-Identity-Management)
-- [Own Your Own Career – Advice from a Veteran Software Engineer](./presentations/tree/main/Own-Your-Own-Career)
-- [You and Your Technical Community](./presentations/tree/main/You-and-Your-Technical-Community)
+- [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/Responsible%20AI)
+- [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
+- [Navigating Cloudy Horizons with Azure Monitor and Application Insights](./presentations/Azure%20Monitor%20and%20App%20Insights)
+- [We Want the Func! Serverless Computing with Azure Functions](./presentations/Azure-Functions)
+- [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
+- [ChatGPT Unleashed: From Code Wizards to Silly Shenanigans!](./presentations/ChatGPT)
+- [Cloud and Azure and Rock and Roll](./presentations/Cloud-And-Azure-And-Rock-And-Roll)
+- [Effective Data Visualization](./presentations/Data-Visualization)
+- [Azure Identity Management and Microsoft Graph](./presentations/MS-Graph-and-Identity-Management)
+- [Own Your Own Career – Advice from a Veteran Software Engineer](./presentations/Own-Your-Own-Career)
+- [You and Your Technical Community](./presentations/You-and-Your-Technical-Community)
 
 ## Deprecated Presentations
 
 I no longer deliver these. Contact me if you are interested. I may update them.
 
-- [How Cloud Computing Empowers a Data Scientist](./presentations/tree/main/How-Cloud-Computing-Empowers-a-Data-Scientist)
-- [A Midsummer Night's Stream: Streaming Video with Azure Media Services](./presentations/tree/main/Azure-Media-Services)
+- [How Cloud Computing Empowers a Data Scientist](./presentations/How-Cloud-Computing-Empowers-a-Data-Scientist)
+- [A Midsummer Night's Stream: Streaming Video with Azure Media Services](./presentations/Azure-Media-Services)
 
 ## Bio
 
