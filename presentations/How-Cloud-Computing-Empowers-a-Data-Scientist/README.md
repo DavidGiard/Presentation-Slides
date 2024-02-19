@@ -5,3 +5,5 @@ The last few years, we have seen an explosion in data science, artificial intell
 Azure offers a number of tools for building data science solutions: From a drag and drop interface to Jupyter Notebooks as a service to a Virtual Machine pre-configured with powerful Machine Learning tools.
 
 In this session, you will learn how the cloud has impacted data science, the most useful tools in Azure for a data scientist, and when it is appropriate to use each tool.
+
+[Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9xXBfKU8keaqDCmA?e=hyrz7A)
