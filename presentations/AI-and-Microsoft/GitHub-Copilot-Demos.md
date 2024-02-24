@@ -2,6 +2,8 @@
 
 ## Powershell
 
+``` Powershell
+
 $jan=1
 $feb=2
 $mar=3
@@ -77,6 +79,8 @@ Describe "Azure Resource Group Tests" {
         Assert-MockCalled New-AzureRmResourceGroup -Exactly -Times 1 -Scope It
     }
 }
+
+```
 
 ## C-Sharp
 
