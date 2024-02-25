@@ -4,4 +4,6 @@ IT Professionals often work in isolation and ignore the large number of other pe
 
 In today's presentation, I will share with you how others have helped advance my career and how I connected with them. I'll show you how you can enhance your career by drawing on the experiences of those around you. And how to have fun doing it.
 
+    NOTE: This presentation is usually delivered as a conference keynote!
+
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9070wCTv3jL1ScTg?e=2uEOyp)
