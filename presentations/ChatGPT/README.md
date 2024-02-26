@@ -9,3 +9,13 @@ But that's not all! Join us as we delve into the playful and imaginative side of
 By the end of this presentation, you'll gain a comprehensive understanding of ChatGPT's potential applications across software development, business tasks, and writing, leaving you equipped to leverage this powerful tool in your own endeavors. Get ready to explore the exciting possibilities that ChatGPT brings to the table.
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9qRQGpC3he12XNeA?e=PUnBy0)
+
+Presented at:
+
+| Date      | Event                          | Location       |
+| --------- | ------------------------------ | -------------- |
+| 9/8/2023  | Cleveland C# User Group        | Online         |
+| 1/4/2024  | Roanoke Valley .NET User Group | Online         |
+| 3/22/2024 | Michigan Technology Conference | Pontiac, MI    |
+| 4/4/2024  | Roanoke Valley .NET User Group | Online         |
+| 5/6/2024  | LambdaConf                     | Estes Park, CO |

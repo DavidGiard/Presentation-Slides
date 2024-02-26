@@ -7,3 +7,13 @@ In today's presentation, I will share with you how others have helped advance my
     NOTE: This presentation is usually delivered as a conference keynote!
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9070wCTv3jL1ScTg?e=2uEOyp)
+
+Presented at:
+
+| Date  | Event    | Location  |
+| ---------- | -------------------------------- | --------------- |
+| 2/21/2015  | Indiana Tech ITECS conference    | Ft. Wayne, IN  |
+| 5/12/2017  | Convergence                      | Detroit, MI    |
+| 11/18/2017 | Great Lakes Area .NET User Group | Southfield, MI |
+| 7/14/2022  | Nebraska.Code()                  | Lincoln, NE     |
+| 3/22/2024  | Michigan Technology Conference   | Pontiac, MI     |

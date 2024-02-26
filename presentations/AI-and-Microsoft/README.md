@@ -7,3 +7,11 @@ This presentation aims to provide an exploration of Microsoft's contributions to
 I will show you the power of tools like Azure OpenAI, Azure AI Search, Microsoft Designer, Azure AI Services, and a number of Copilot products.
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9ywsAQQ9sVMnWFew?e=vecggl)
+
+Presented at:
+
+| Date      | Event Name                                                    | Location    |
+| --------- | ------------------------------------------------------------- | ----------- |
+| 2/15/2024 | Unleashing Azure AI Search and Copilot, presented by Insight and RightPoint | Chicago, IL |
+| 2/21/2024 | GOTO/CJUG/Kotlin Group                                        | Chicago, IL |
+| 3/11/2024 | Elastic Chicago User Group                                    | Chicago, IL |
