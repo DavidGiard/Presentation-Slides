@@ -8,6 +8,14 @@
 "Shorten this article to 3 paragraphs"
 "Rewrite for a fifth grade level"
 "Translate to German"
+"Create a PowerPoint presentation on this topic"
+
+## PowerPoint
+
+1. Save Word document
+2. Share | Get Link
+3. Open PowerPoint
+4. Create presentation from file
 
 ## Teams
 
@@ -24,8 +32,7 @@
 ### Teams Demo 2
 
 1. Open recorded meeting
-1. Copilot prompts
-   1. Summarize the meeting
-   2. What are the next steps?
-   3. What did we decide about food?
-
+1. Copilot prompts:
+   - Summarize the meeting
+   - What are the next steps?
+   - What did we decide about food?
