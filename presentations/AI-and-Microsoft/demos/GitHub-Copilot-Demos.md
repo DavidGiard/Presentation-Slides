@@ -1,6 +1,6 @@
 # GitHub Copilot Demos
 
-## Powershell
+## PowerShell
 
 ``` Powershell
 
@@ -48,7 +48,7 @@ $subscription = Get-AzureRmSubscription
 # Create a resource group named tcsrg in the East Us region
 New-AzureRmResourceGroup -Name tcsrg -Location "East US"
 
-# Create a resource group if no group exists
+# Create a resource group only if the group does not exist
 if (Get-AzureRmResourceGroup -Name tcsrg -ErrorAction SilentlyContinue) {
     Write-Host "Resource group tcsrg already exists. Skipping creation."
 } else {
