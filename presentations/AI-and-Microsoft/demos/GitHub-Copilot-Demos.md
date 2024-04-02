@@ -87,12 +87,12 @@ Describe "Azure Resource Group Tests" {
 1. Copy files from [here](https://github.com/gh-msft-innersource/CopilotPlayground/tree/main/FollowStandards)
 2. Close all files in editor
 3. No Hints
-   1. Open GetProxy.cs
+   1. Open StoreProxy.cs
       1. Add comment "// Handle the case where the response is not HTTP OK"
 4. With Hints
    1. Open PetProxy.cs
       1. Show handle code
-   2. Open GetProxy.cs
+   2. Open StoreProxy.cs
       1. Delete Generated code
       2. Re-enter comment
       3. The style should match code in PetProxy.cs

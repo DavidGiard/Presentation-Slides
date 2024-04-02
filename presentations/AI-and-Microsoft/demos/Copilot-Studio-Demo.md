@@ -11,6 +11,7 @@
 4. Messages:
    1. What can you tell me about Data Visualization?
    2. Tell me about the books by Anthony Powell
+   3. Recommend some good science fiction novels
 
 ## Real Thing
 
@@ -18,6 +19,7 @@
 2. "Copilots" tab
    1. [New Copilot] button
    2. Enter website: davidgiard.com
+   3. [Create] button
 3. "Topics" tab
    1. Topics | Show "Greeting", "Goodbye", "Lesson 3"
    2. System | "Conversation boosting"
