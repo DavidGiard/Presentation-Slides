@@ -24,3 +24,6 @@ Presented at:
 
 "David's presentation on "Empowering AI: Navigating Microsoft's Tools and Technologies" was truly inspiring."
 &dash;[Ridhima Singh](https://www.linkedin.com/feed/update/urn:li:activity:7181143669188571136/)
+
+"Thank you david for such a knowledgeable presentation !!"
+&dash;[Akaah Bodhale](https://www.linkedin.com/feed/update/urn:li:ugcPost:7181153283191836674?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7181153283191836674%2C7181261659003375616%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287181261659003375616%2Curn%3Ali%3AugcPost%3A7181153283191836674%29)
