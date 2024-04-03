@@ -14,4 +14,13 @@ Presented at:
 | --------- | ------------------------------------------------------------- | ----------- |
 | 2/15/2024 | Unleashing Azure AI Search and Copilot, presented by Insight and RightPoint | Chicago, IL |
 | 2/21/2024 | GOTO/CJUG/Kotlin Group                                        | Chicago, IL |
-| 3/11/2024 | Elastic Chicago User Group                                    | Chicago, IL |
+| 3/12/2024 | ElasticON                                                     | Chicago, IL |
+| 4/2/2024  | Illinois Institute of Technology                              | Chicago, IL |
+
+## Feedback
+
+"Moreover, the demos showcased during the masterclass truly exemplified the power and potential of Microsoft's AI technologies. Overall, today's session was not only informative but also thought-provoking, sparking discussions on the future of AI and even my personal use!"
+&dash;[Lucia Lazaro Hernandez](https://www.linkedin.com/feed/update/urn:li:activity:7181058641494515712/)
+
+"David's presentation on "Empowering AI: Navigating Microsoft's Tools and Technologies" was truly inspiring."
+&dash;[Ridhima Singh](https://www.linkedin.com/feed/update/urn:li:activity:7181143669188571136/)
