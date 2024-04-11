@@ -1,6 +1,7 @@
 # Demos for AI Tools in Azure presentation
 
-- JFK Demo
-- M365 Copilot
-- GitHub Copilot
-
+- [JFK Demo](https://jfk-demo-2019.azurewebsites.net)
+- [M365 Copilot](./M365-Copilot-Demos.md)
+- [GitHub Copilot](./GitHub-Copilot-Demos.md)
+- [Microsoft Designer](./Microsoft-Designer-Demo.md)
+- [Copilot Studio](./Copilot-Studio-Demo.md)
