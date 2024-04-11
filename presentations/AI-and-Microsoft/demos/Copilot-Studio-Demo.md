@@ -31,8 +31,4 @@
 
 ## Custom Demo
 
-Same as above, but use customer's or partner's web site and ask questions about info on the site (e.g. "Are you hiring?). Test these first.
-
-## HTML
-
-<!-- build a page titled "Let's Learn about AI" -->
+Same as above, but use customer's or partner's web site and ask questions about info on the site (e.g. "Are you hiring?"). Test these first.

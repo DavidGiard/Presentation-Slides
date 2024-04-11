@@ -102,6 +102,11 @@ Describe "Azure Resource Group Tests" {
 6. Open StoreProxy.cs
    1. Add comment: "// Handle negative values" at top
 
+### HTML
+
+<!-- build a page titled "Let's Learn about AI" -->
+
 ## References
 
 See (https://github.com/gh-msft-innersource/CopilotPlayground/tree/main)
+
