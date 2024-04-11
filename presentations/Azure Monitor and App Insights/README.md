@@ -5,3 +5,8 @@ Azure Monitoring is a comprehensive cloud-based service that allows users to col
 In this session, you will learn the concepts important to monitoring applications and how to configure Azure Monitor and Application Insights to collect relevant data, alert you when potential problems occur, and report on that data in near real time.
 
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9r4S0QcWv_fsCdHQ?e=Dtoq5W)
+
+| Date      | Event Name                                                    | Location    |
+| --------- | ------------------------------------------------------------- | ----------- |
+| Apr 30 2024 | VSLive | Chicago, IL
+| May 17 2024 | DevSum | Stockholm, Sweden |

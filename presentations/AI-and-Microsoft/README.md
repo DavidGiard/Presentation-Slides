@@ -12,18 +12,23 @@ Presented at:
 
 | Date      | Event Name                                                    | Location    |
 | --------- | ------------------------------------------------------------- | ----------- |
-| 2/15/2024 | Unleashing Azure AI Search and Copilot, presented by Insight and RightPoint | Chicago, IL |
-| 2/21/2024 | GOTO/CJUG/Kotlin Group                                        | Chicago, IL |
-| 3/12/2024 | ElasticON                                                     | Chicago, IL |
-| 4/2/2024  | Illinois Institute of Technology                              | Chicago, IL |
+| Feb 15 2024 | Unleashing Azure AI Search and Copilot, presented by Insight and RightPoint | Chicago, IL |
+| Feb 21 2024 | GOTO/CJUG/Kotlin Group                                        | Chicago, IL |
+| Mar 12 2024 | ElasticON                                                     | Chicago, IL |
+| Apr 2 2024  | Illinois Institute of Technology                              | Chicago, IL |
+| Aug 14 2024 | Azure Cleveland User Group | Online |
 
 ## Feedback
 
-"Moreover, the demos showcased during the masterclass truly exemplified the power and potential of Microsoft's AI technologies. Overall, today's session was not only informative but also thought-provoking, sparking discussions on the future of AI and even my personal use!"
-&dash;[Lucia Lazaro Hernandez](https://www.linkedin.com/feed/update/urn:li:activity:7181058641494515712/)
+"Moreover, the demos showcased during the masterclass truly exemplified the power and potential of Microsoft's AI technologies. Overall, today's session was not only informative but also thought-provoking, sparking discussions on the future of AI and even my personal use!"\
+&dash; [Lucia Lazaro Hernandez](https://www.linkedin.com/feed/update/urn:li:activity:7181058641494515712/)
 
-"David's presentation on "Empowering AI: Navigating Microsoft's Tools and Technologies" was truly inspiring."
+"David's presentation on "Empowering AI: Navigating Microsoft's Tools and Technologies" was truly inspiring."\
 &dash;[Ridhima Singh](https://www.linkedin.com/feed/update/urn:li:activity:7181143669188571136/)
 
-"Thank you david for such a knowledgeable presentation !!"
-&dash;[Akaah Bodhale](https://www.linkedin.com/feed/update/urn:li:ugcPost:7181153283191836674?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7181153283191836674%2C7181261659003375616%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287181261659003375616%2Curn%3Ali%3AugcPost%3A7181153283191836674%29)
+"Thank you david for such a knowledgeable presentation !!"\
+&dash; [Akaah Bodhale](https://www.linkedin.com/feed/update/urn:li:ugcPost:7181153283191836674?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7181153283191836674%2C7181261659003375616%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287181261659003375616%2Curn%3Ali%3AugcPost%3A7181153283191836674%29)
+
+"Just wrapped up an insightful AI Masterclass led by the incredible David Giard! at the Illinois Institute of Technology...\
+Overall, this masterclass has provided invaluable insights and tools that has undoubtedly shaped my understanding of AI. A huge thank you to David Giard for sharing his expertise and to all who attended for the engaging discussions!"\
+&dash; [Apurva Anand](https://www.linkedin.com/feed/update/urn:li:activity:7182051847862370305/)
