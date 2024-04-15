@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QChatGPT Unleashed: From Code Wizards to Silly Shenanigans!\\E$"}

@@ -5,3 +5,4 @@
 - [GitHub Copilot](./GitHub-Copilot-Demos.md)
 - [Microsoft Designer](./Microsoft-Designer-Demo.md)
 - [Copilot Studio](./Copilot-Studio-Demo.md)
+- [Document Intelligence Studio](Document-Intelligence-Studio-Demo.md)

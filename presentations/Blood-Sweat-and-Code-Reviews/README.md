@@ -6,6 +6,8 @@ Code Reviews can sometime be painful and time-consuming, but they are an importa
 
 In this session, I will discuss the importance of Code Reviews and show some ways you can make your code reviews more productive, enjoyable, and successful.
 
+## Slides
+
 [Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw1a9thnUfWPgBUP3vjQ?e=fv5aZB)
 
 ## Presented at
@@ -20,7 +22,7 @@ In this session, I will discuss the importance of Code Reviews and show some way
 | Apr 25 2023 | Tulsa .NET User Group          | Online            |
 | Jan 12 2024 | CodeMash                       | Sandusky, OH      |
 | Mar 22 2024 | Michigan Technology Conference | Pontiac, MI       |
-| Apr 17 2024 | Pittsburgh .NET User Group     | Online            |
+| Apr 25 2024 | Pittsburgh .NET User Group     | Online            |
 
 ## Feedback
 
