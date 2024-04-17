@@ -15,3 +15,8 @@ In this session, we will address the challenges inherent in AI and how you can a
 | Date | Event Name                                      | Location                |
 | ---------------- | ----------------------------------------------- | ----------------------- |
 | Apr 15, 2024        | AI Camp                          | Chicago, IL |
+
+## Feedback
+
+"As an AI engineer, this topic is crucial to me, I appreciated the insights he shared."
+&dash; [Karthik Kaiplody](https://www.linkedin.com/posts/karthikkaiplody_interesting-talks-at-the-chicago-aicamp-event-activity-7186239558672396288-Wssp)
