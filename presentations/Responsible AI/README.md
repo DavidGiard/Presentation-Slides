@@ -20,3 +20,6 @@ In this session, we will address the challenges inherent in AI and how you can a
 
 "As an AI engineer, this topic is crucial to me, I appreciated the insights he shared."
 &dash; [Karthik Kaiplody](https://www.linkedin.com/posts/karthikkaiplody_interesting-talks-at-the-chicago-aicamp-event-activity-7186239558672396288-Wssp)
+
+"David Giard's primer on AI application development provided a comprehensive overview of navigating the current AI landscape, offering invaluable guidance amidst the evolving technological wave."
+&dash; [Vinay Prabhakar](https://www.linkedin.com/posts/vprabhakar1_thrilled-to-have-participated-in-the-recent-activity-7186505206996570112-60QP?utm_source=share&utm_medium=member_desktop)
