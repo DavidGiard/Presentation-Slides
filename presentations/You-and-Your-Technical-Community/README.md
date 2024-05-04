@@ -17,6 +17,7 @@ In today's presentation, I will share with you how others have helped advance my
 | 11/18/2017 | Great Lakes Area .NET User Group | Southfield, MI |
 | 7/14/2022  | Nebraska.Code()                  | Lincoln, NE     |
 | 3/22/2024  | Michigan Technology Conference   | Pontiac, MI     |
+| Aug 3 2024 | Beer City Code                   | Grand Rapids, MI  |
 
 ## Feedback
 

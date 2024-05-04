@@ -53,7 +53,7 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Jan 8 2015  | CodeMash                                        | Sandusky, OH           |
 | Feb 6 2015  | University of Cincinnati                        | Cincinnati, OH         |
 | Apr 18 2015 | Chicago Code Camp                               | Chicago, IL            |
-| May 26 2015 | DevSum                                         | Stockholm, Sweden      |
+| May 26 2015 | DevSum                                          | Stockholm, Sweden      |
 | Jul 28 2015 | Geekfest                                        | Chicago, IL            |
 | Sep 30 2015 | University of Illinois                          | Champaign, IL          |
 | Nov 18 2015 | Chicago .NET User Group                         | Downers Grove, IL      |
@@ -68,15 +68,15 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Oct 17 2017 | DevUp                                           | St. Charles, MO        |
 | Jun 22 2018 | Beer City Code                                  | Grand Rapids, MI       |
 | Sep 20 2018 | VSLive                                          | Chicago, IL            |
-| Jul 28 2021 | That Conference                                 | Wisconsin Dells, WI     |
-| Sep 16 2021 | Music City Tech                                 | Nashville, TN           |
-| Sep 16 2021 | KCDC                                            | Kansas City, MO         |
-| Nov 5 2021  | TDevConf                                        | Memphis, TN             |
-| Nov 29 2021 | Columbus .NET User Group                        | Columbus, OH            |
-| Jan 13 2022 | CodeMash                                        | Sandusky, OH            |
-| Jan 17 2022 | Columbus .NET User Group                        | Columbus, OH            |
-| Apr 20 2022 | CSE Offsite                                     | Redmond, WA             |
-| Jul 15 2022 | Nebraska.Code()                                 | Lincoln, NE             |
-| Mar 22 2024 | Michigan Technology Conference                  | Pontiac, MI             |
-| Apr 30 2024 | VSLive                                          | Chicago, IL             |
-| May 17 2024 | DevSum                                          | Stockholm, Sweden       |
+| Jul 28 2021 | That Conference                                 | Wisconsin Dells, WI    |
+| Sep 16 2021 | Music City Tech                                 | Nashville, TN          |
+| Sep 16 2021 | KCDC                                            | Kansas City, MO        |
+| Nov 5 2021  | TDevConf                                        | Memphis, TN            |
+| Nov 29 2021 | Columbus .NET User Group                        | Columbus, OH           |
+| Jan 13 2022 | CodeMash                                        | Sandusky, OH           |
+| Jan 17 2022 | Columbus .NET User Group                        | Columbus, OH           |
+| Apr 20 2022 | CSE Offsite                                     | Redmond, WA            |
+| Jul 15 2022 | Nebraska.Code()                                 | Lincoln, NE            |
+| Mar 22 2024 | Michigan Technology Conference                  | Pontiac, MI            |
+| Apr 30 2024 | VSLive                                          | Chicago, IL            |
+| May 17 2024 | DevSum                                          | Stockholm, Sweden      |
