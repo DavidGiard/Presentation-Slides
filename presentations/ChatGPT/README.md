@@ -21,3 +21,8 @@ By the end of this presentation, you'll gain a comprehensive understanding of Ch
 | 3/22/2024 | Michigan Technology Conference | Pontiac, MI    |
 | 4/4/2024  | Roanoke Valley .NET User Group | Online         |
 | 5/6/2024  | LambdaConf                     | Estes Park, CO |
+
+## Feedback
+
+"Entertaining talk from @DavidGiard on the power and promise of ChatGPT. #LambdaConf2024"\
+&dash;[Garth Gilmour](https://x.com/GarthGilmour/status/1787606448098132153)
