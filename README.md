@@ -40,4 +40,4 @@ I no longer deliver these. Contact me if you are interested. I may update them.
 
 David Giard is a former accountant and a former biochemist, who has been developing solutions using Microsoft technologies for over three decades.  Currently, David helps people design and build solutions in his role as a Partner Solution Architect at Microsoft. David has been very active in the developer community, speaking at numerous major conferences, code camps, and user groups around the world; helping to lead user groups; and helping to organize conferences and other geek events. He is the host and producer of the mildly popular online TV shows [Technology and Friends](http://technologyandfriends.com) and [GCast](https://aka.ms/gcast).  He is the co-author of the Wrox book [Real World .NET, C#, and Silverlight](https://www.amazon.com/Real-World-NET-Silverlight-Indispensible/dp/1118021967/). You can read his latest thoughts at [DavidGiard.com](https://davidgiard.com).  His hobbies include video, photography, sports, and embarrassing his sons.
 
-![David Giard](./images/David2020.jpeg)
+![David Giard](./images/David2024.jpeg)
