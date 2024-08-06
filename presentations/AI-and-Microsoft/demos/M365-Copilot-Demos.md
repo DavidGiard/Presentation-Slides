@@ -52,3 +52,5 @@
    - Summarize the meeting
    - What are the action items?
    - What did we decide about food?
+   - What are my next steps?
+   - What did Lucy say about food?
