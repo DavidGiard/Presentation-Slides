@@ -18,8 +18,11 @@
 
 ## Setup
 
-1. Create a web app.
+1. Create a web app in the portal
 2. Navigate to the web app
+3. Create an MVC web app locally
+    choco install dotnet-sdk
+    dotnet new mvc
 
 ## Demo
 
@@ -32,28 +35,50 @@
 
 ## Application Insights Demo
 
-Monitor | Application Insights | Create (~40 seconds)
-Create a new Web App (Standard App Service tier)
-"Monitoring" tab
-    Enable Application Insights
-    Select App Insights service you just created
+### Web App
 
+```
+  Create a new Web App (Standard App Service tier)
+    Select "Montor+secure" tab
+      Select App Insights service you just created
+    After creation (~40 seconds)
+      "Overview" blade | "Monitoring" tab
+        View built-in metrics
+      "Settings" | "Application Insights" blade
+        Enable Application Insights
+        Select App Insights service you just created
+```
+
+### Function App
+
+```
 Create Function App
-"Monitoring" tab
-    Enable Application Insights
-    Select App Insights service you just created
+    Select "Montor+secure" tab
+      Select App Insights service you just created
+    After creation (~40 seconds)
+      "Settings" | "Application Insights" blade
+        Enable Application Insights
+        Select App Insights service you just created
+      "Overview" blade | "Metrics" tab
+        View built-in metrics
+```
 
+### Virtual Machine
+
+```
 Create Virtual Machine
-"Monitoring" tab
-    Enable Alert rules
-    Select App Insights service you just created
+  "Monitoring" tab
+      Enable Alert rules
+      Boot diagnostics
+      Select App Insights service you just created
+```
 
 ## Application Insights SDK for .NET
 
 1. Azure App Insights | Overview blade. Copy:
    - Instrumentation Key
    - Connection String
-2. Open ASP.NET MVC application
+2. Open ASP.NET MVC application (Created in Setup)
 3. Code added to:
    1. appsettings.json
    2. program.cs
