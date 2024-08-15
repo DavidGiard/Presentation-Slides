@@ -87,6 +87,25 @@ Create Virtual Machine
    1. dotnet add package Microsoft.Extensions.Logging.ApplicationInsights --source https://api.nuget.org/v3/index.json
    2. dotnet run
 
+## Dashboard
+
+- Open Application Insights
+  - [Application Dashboard] button
+    - Show default dashboard
+      - Edit
+        - Move tiles
+        - Resize tiles
+        - Change settings
+        - [Edit] button
+          - Add from Tile Gallery
+          - [Preview]
+          - [Save]
+          - [Share]
+    - Create new Dashboard
+      - Select template
+
+## Alerts
+
 ## Code
 
 ### appsetting.json
