@@ -17,6 +17,62 @@
 3. Open PowerPoint
 4. Create presentation from file
 
+## Excel
+
+### Setup
+
+Open Excel.
+
+Sample files are in 
+https://microsoft-my.sharepoint.com/personal/dgiard_microsoft_com/Documents/Demos/CopilotExcel/
+(locally at C:\Users\dgiard\OneDrive - Microsoft\Demos\CopilotExcel)
+
+Open files:
+- FoodInventory.xlsx
+- FIFA.xlsx
+
+### Fifa.xlsx
+
+Home | Copilot
+
+Prompt:
+```
+Highlight every player name if the dribbles are higher than either the interceptions or the tackles
+```
+
+[Apply]
+
+- Show results
+- Home | Conditional Formatting | Manage rules
+
+### FoodInventory.xlsx
+
+Show data in "FoodSales" worksheet
+
+[Copilot] button on [Home] ribbon
+
+- [Avanced analytics]
+- [Start advanced analytics]
+
+Copilot creates a new worksheet named "Analysis1" with a dataframe preview of the data in the "FoodSales" worksheet.
+
+Prompt:
+```
+Show the monthly total value for each region over time. The price for each category will be aggregated by month and displayed in a line chart.
+```
+
+Click [Image] cell and show Python code in formula bar
+
+Prompt:
+```
+On the same chart, forecast each region's total value for the first 6 months of 2024.
+```
+
+Prompt:
+```
+Explicitly label the forecasted data on the chart. For each region, use the same color for the actual and forecast lnes. Make the forecast lines 4 times as thick as the dashed lines.
+```
+
 ## Outlook
 
 1. Create New email
