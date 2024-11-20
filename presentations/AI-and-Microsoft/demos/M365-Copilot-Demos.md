@@ -49,7 +49,7 @@ Highlight every player name if the dribbles are higher than either the intercept
 
 Show data in "FoodSales" worksheet
 
-[Copilot] button on [Home] ribbon
+Home | Copilot
 
 - [Avanced analytics]
 - [Start advanced analytics]
