@@ -80,3 +80,4 @@ In this session, I will explain some of Tufte's most important guidelines about 
 | Mar 22 2024 | Michigan Technology Conference                  | Pontiac, MI            |
 | Apr 30 2024 | VSLive                                          | Chicago, IL            |
 | May 17 2024 | DevSum                                          | Stockholm, Sweden      |
+| Jan 30 2025 | NDC Lodo                                        | London, UK             |
