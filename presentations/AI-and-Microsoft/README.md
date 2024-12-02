@@ -21,6 +21,7 @@ I will show you the power of tools like Azure OpenAI, Azure AI Search, Microsoft
 | Apr 2 2024  | Illinois Institute of Technology                              | Chicago, IL |
 | Apr 19 2024  | Global Azure | Chicago, IL |
 | Aug 14 2024 | Azure Cleveland User Group | Online |
+| Sep 26 2024 | Tulsa .NET User Group | Onlie |
 
 ## Feedback
 
