@@ -4,6 +4,8 @@ In this presentation, we will explore the transformative capabilities of Microso
 
 The presentation will cover several Copilot products, including GitHub Copilot, Microsoft 365 Copilot, Copilot for Security, Copilot for Dynamics 365 and Power Platform. Each section will delve into how these tools assist developers, business professionals, and security teams in streamlining their workflows, automating repetitive tasks, and improving overall performance.
 
+[Slides](https://1drv.ms/p/s!AsEkrMBA7Ehw14wRtmjdDEUnXxM8mw?e=q2u4pI)
+
 ## Presented at
 
 | Date        | Event Name                                                    | Location    |
