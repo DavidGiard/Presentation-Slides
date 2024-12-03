@@ -12,6 +12,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
 - [Revolutionizing Workflow with Microsoft Copilot Products](./presentations/Microsoft-Copilot)
+- [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
 - [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/Responsible%20AI)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
 - [Navigating Cloudy Horizons with Azure Monitor and Application Insights](./presentations/Azure%20Monitor%20and%20App%20Insights)
