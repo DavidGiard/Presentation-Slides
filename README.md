@@ -16,6 +16,7 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/Responsible%20AI)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
 - [Navigating Cloudy Horizons with Azure Monitor and Application Insights](./presentations/Azure%20Monitor%20and%20App%20Insights)
+- [Secure Future Initiative](./presentations/Secure%20Future%20Initiative/)
 - [We Want the Func! Serverless Computing with Azure Functions](./presentations/Azure-Functions)
 - [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
 - [ChatGPT Unleashed: From Code Wizards to Silly Shenanigans!](./presentations/ChatGPT)
