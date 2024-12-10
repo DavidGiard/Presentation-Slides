@@ -11,7 +11,7 @@ In most cases, the slides are far more valuable within the context of a presenta
 I am available to deliver the presentations below. Click on a title to view a detailed description and the associated slide deck.
 
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
-- [Revolutionizing Workflow with Microsoft Copilot Products](./presentations/Microsoft-Copilot)
+- [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
 - [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/Responsible%20AI)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
