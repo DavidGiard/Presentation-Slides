@@ -13,10 +13,11 @@ I am available to deliver the presentations below. Click on a title to view a de
 - [Empowering AI: Navigating Microsoft's Tools and Technologies](./presentations/AI-and-Microsoft)
 - [Revolutionizing Workflow with Microsoft Copilot Tools](./presentations/Microsoft-Copilot)
 - [GitHub Copilot: Your AI Pair Programmer](./presentations/GitHub-Copilot)
-- [With Great Power Comes Great Responsibility: Working Toward Responsible AI](./presentations/Responsible%20AI)
+- [Mastering Intelligent Search with Azure AI](./presentations/Azure%20AI%20Search)
+- [With Great Power Comes Great Responsibility: The Challenges of Responsible AI](./presentations/Responsible%20AI)
 - [Diving Deep into Data with Azure Data Explorer and Kusto Query Language](./presentations/ADX-and-KQL)
 - [Navigating Cloudy Horizons with Azure Monitor and Application Insights](./presentations/Azure%20Monitor%20and%20App%20Insights)
-- [Secure Future Initiative](./presentations/Secure%20Future%20Initiative/)
+- [Microsoft’s Approach to Comprehensive Security](./presentations/Secure%20Future%20Initiative/)
 - [We Want the Func! Serverless Computing with Azure Functions](./presentations/Azure-Functions)
 - [Blood, Sweat, & Code Reviews](./presentations/Blood-Sweat-and-Code-Reviews)
 - [ChatGPT Unleashed: From Code Wizards to Silly Shenanigans!](./presentations/ChatGPT)
@@ -29,8 +30,6 @@ I am available to deliver the presentations below. Click on a title to view a de
 ## Draft Presentations
 
 These are new presentations that are not yet complete. Contact me if you are interested. It may be the catalyst I need to finish them.
-
-- [Azure AI Search](./presentations/Azure%20AI%20Search)
 
 ## Deprecated Presentations
 
